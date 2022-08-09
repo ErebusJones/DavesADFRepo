@@ -3,4 +3,4 @@ def test_pass():
 
 
 def test_fail():
-    assert 2 + 2 == 5
+    assert 2 + 3 == 5
